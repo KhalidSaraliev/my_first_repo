@@ -70,3 +70,4 @@ git push -u origin main
 ```sh
 git push --set-upstream origin newbranch
 ```
+Разрешаю конфликт по новой
