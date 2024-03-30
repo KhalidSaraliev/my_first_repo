@@ -60,3 +60,5 @@ git remote add origin <ссылка нашего репозитория>
 git push -u origin main
 ```
 
+Это текст добавлен с веб сервера
+
